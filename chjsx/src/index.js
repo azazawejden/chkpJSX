@@ -2,6 +2,7 @@ import React from 'react';
 import './index.css';
 import App from './App';
 
+
 function ProfilePhoto() {
   return (
       <img

@@ -1,9 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
-import React, { Component } from 'react';
-import ProfilePhoto from './Components/Profile/ProfilePhoto';
-import FullName from './Components/Profile/FullName';
-import Address from './Components/Profile/Address';
+import React from 'react';
+import ProfilePhoto from './component/profile/ProfilePhoto';
+import FullName from './component/profile/FullName';
+import Address from './component/profile/Address';
 
 function App() {
   return (

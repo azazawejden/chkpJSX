@@ -1,3 +1,5 @@
+
+import './profile.css';
 import React from "react";
 
 function Address() {
